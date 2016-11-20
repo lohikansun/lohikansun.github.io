@@ -1723,6 +1723,17 @@ h3.ghj {
 .news-bottom-right {
     width: 75%;
     padding: 0;
+}* aha! */
+    text-align: right;
+}
+.source-text {
+  color: #999;
+  font-size: .6em;
+  font-style: italic;
+  line-height: 1em;
+  margin: 1em auto 0em;
+  width: 80%;
+  text-align:center;
 }
 }
 /*--media-quaries-end-here--*/
